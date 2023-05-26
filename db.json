@@ -3,7 +3,7 @@
    "title":"Nike Air Force 1 '07 FlyEase",
    "description" :"Quicker than 1, 2, 3—the original hoops shoe lets you step in and get going. Its easy-entry FlyEase system gives you a hands-free experience, while crisp leather dons the cleanest colour for ultimate wearability. Yeah, it's everything you love and then some."
    "price":110,
-   "rating":4,
+   "rating":3,
    "imageURL":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/13721f24-2774-443e-a27d-998d2c6be068/air-force-1-07-flyease-shoes-LKXPhZ.png"
    "videoURL":"https://static.nike.com/a/videos/q_90,vc_vp9/476d28cd-731a-41fc-9bb5-0d2877aae7bd/video.webm"
 },
@@ -23,24 +23,24 @@
    "price":110,
    "rating":4,
    "imageURL":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/16cd3ba0-5496-43ea-b75d-15044501f0dc/court-vision-low-shoes-W2bfvt.png"
-   "videoURL":" "
+   "videoURL":""
 },
  {
   "id":"4",
-   "title":"Nike Air Force 1 '07 FlyEase",
-   "description" :"Quicker than 1, 2, 3—the original hoops shoe lets you step in and get going. Its easy-entry FlyEase system gives you a hands-free experience, while crisp leather dons the cleanest colour for ultimate wearability. Yeah, it's everything you love and then some."
+   "title":"Jordan One Take 4 PF",
+   "description" :"Get that speed you need, just like Russ. Inspired by Russell Westbrook's latest signature shoe, the outsole of the Jordan One Take 4 wraps up nearly to the midsole so you can start, stop or change direction in an instant. Meanwhile, energy-returning Zoom Air cushioning in the forefoot keeps you goin' (and goin' and goin')."
    "price":110,
    "rating":4,
-   "imageURL":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/13721f24-2774-443e-a27d-998d2c6be068/air-force-1-07-flyease-shoes-LKXPhZ.png"
-   "videoURL":"https://static.nike.com/a/videos/q_90,vc_vp9/476d28cd-731a-41fc-9bb5-0d2877aae7bd/video.webm"
+   "imageURL":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/02ffc2b7-a1a7-4eb7-9fe7-9d211dcffc94/jordan-one-take-4-pf-shoes-cdsVn1.png"
+   "videoURL":""
 }
  ,{
   "id":"5",
-   "title":"Nike Air Force 1 '07 FlyEase",
-   "description" :"Quicker than 1, 2, 3—the original hoops shoe lets you step in and get going. Its easy-entry FlyEase system gives you a hands-free experience, while crisp leather dons the cleanest colour for ultimate wearability. Yeah, it's everything you love and then some."
-   "price":110,
+   "title":"Nike Renew Elevate 3",
+   "description" :"Level up your game on both ends of the floor in the Nike Renew Elevate 3. Specifically tuned for 2-way players who want to make an impact offensively and defensively, this shoe helps you optimise your ability with all-game, all-season support and stability. Improved traction and arch support enhance cutting and pivoting, which can make the difference down the stretch."
+   "price":85,
    "rating":4,
-   "imageURL":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/13721f24-2774-443e-a27d-998d2c6be068/air-force-1-07-flyease-shoes-LKXPhZ.png"
-   "videoURL":"https://static.nike.com/a/videos/q_90,vc_vp9/476d28cd-731a-41fc-9bb5-0d2877aae7bd/video.webm"
+   "imageURL":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/af4e8cbb-e93a-4652-8f85-93d6515390ff/renew-elevate-3-basketball-shoes-QT43Gj.png"
+   "videoURL":""
 }
 ]
